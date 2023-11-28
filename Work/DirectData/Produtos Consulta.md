@@ -3,7 +3,7 @@
 ### Pessoa Física
 
 **Dados Cadastrais PF**
-- Mix PF 100
+- Mix PF 100 - 45075A73
 ![[DirectData CadastralPf - Aécio.png]]
 ![[DirectData CadastralPf - Leonardo.png]]
 
@@ -14,7 +14,7 @@
 ### Pessoa Jurídica
 
 **Dados Cadastrais PJ**
-- Mix PJ 
+- Mix PJ 307 - BF1529FF
 
 
 **Receita Federal PJ**

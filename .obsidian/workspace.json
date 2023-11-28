@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md",
-                "mode": "source",
+                "file": "Work/Useful/Documentos Para Consulta.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md",
+                "file": "Work/Useful/Documentos Para Consulta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md",
+                "file": "Work/Useful/Documentos Para Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md"
+                "file": "Work/Useful/Documentos Para Consulta.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "82c5dea279cd8ea2",
   "lastOpenFiles": [
+    "Work/DirectData/Produtos Consulta.md",
+    "Work/Useful/Queries.md",
     "Work/Useful/Usuários Portal.md",
+    "Work/Useful/Redis Cache.md",
     "Work/Images/DirectData CadastralPf - Leonardo.png.~tmp",
     "Work/Images/DirectData CadastralPf - Aécio.png.~tmp",
-    "Work/DirectData/Produtos Consulta.md",
     "Work/Useful/Documentos Para Consulta.md",
     "Work/Images/DirectData CadastralPf - Aécio.png",
     "Work/Images/DirectData CadastralPf - Leonardo.png",
-    "Work/Useful/Redis Cache.md",
-    "Work/Useful/Queries.md",
     "2023-11-27.md",
     "Work/DirectData",
     "Work/Untitled.md",
