@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Useful/Documentos Para Consulta.md",
-                "mode": "preview",
+                "file": "Work/Useful/Docker Containers.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Useful/Documentos Para Consulta.md",
+                "file": "Work/Useful/Docker Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Useful/Documentos Para Consulta.md",
+                "file": "Work/Useful/Docker Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Useful/Documentos Para Consulta.md"
+                "file": "Work/Useful/Docker Containers.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "82c5dea279cd8ea2",
   "lastOpenFiles": [
+    "Work/Useful/Redis Cache.md",
+    "Work/Useful/Docker Containers.md",
+    "Work/Useful/Documentos Para Consulta.md",
     "Work/DirectData/Produtos Consulta.md",
     "Work/Useful/Queries.md",
     "Work/Useful/Usuários Portal.md",
-    "Work/Useful/Redis Cache.md",
     "Work/Images/DirectData CadastralPf - Leonardo.png.~tmp",
     "Work/Images/DirectData CadastralPf - Aécio.png.~tmp",
-    "Work/Useful/Documentos Para Consulta.md",
     "Work/Images/DirectData CadastralPf - Aécio.png",
     "Work/Images/DirectData CadastralPf - Leonardo.png",
     "2023-11-27.md",
