@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f869ecdffb7ce12",
+        "id": "97725afe620e29e4",
         "type": "tabs",
         "children": [
           {
-            "id": "82c5dea279cd8ea2",
+            "id": "cfca895bed476466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Useful/Docker Containers.md",
-                "mode": "source",
+                "file": "Work/DirectData/Produtos Consulta.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Useful/Docker Containers.md",
+                "file": "Work/DirectData/Produtos Consulta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Useful/Docker Containers.md",
+                "file": "Work/DirectData/Produtos Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Useful/Docker Containers.md"
+                "file": "Work/DirectData/Produtos Consulta.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,14 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c5dea279cd8ea2",
+  "active": "6d8b79cb172ab2b8",
   "lastOpenFiles": [
-    "Work/Useful/Redis Cache.md",
-    "Work/Useful/Docker Containers.md",
-    "Work/Useful/Documentos Para Consulta.md",
+    "Work/DirectData/Exemplos Retorno/Mix PF 100.pdf",
+    "Work/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Work/DirectData/Produtos Consulta.md",
-    "Work/Useful/Queries.md",
+    "DirectData CadastralPf - Aécio.png.md",
+    "Work/Useful/Docker Containers.md",
+    "Work/DirectData/Exemplos Retorno",
     "Work/Useful/Usuários Portal.md",
+    "Work/Useful/Queries.md",
+    "Work/Useful/Documentos Para Consulta.md",
+    "Work/Useful/Redis Cache.md",
     "Work/Images/DirectData CadastralPf - Leonardo.png.~tmp",
     "Work/Images/DirectData CadastralPf - Aécio.png.~tmp",
     "Work/Images/DirectData CadastralPf - Aécio.png",
