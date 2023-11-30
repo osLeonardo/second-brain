@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97725afe620e29e4",
+        "id": "fb35045dbf057caf",
         "type": "tabs",
         "children": [
           {
-            "id": "cfca895bed476466",
+            "id": "1cbd12b6991eca0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md",
+                "file": "Second Brain.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md",
+                "file": "Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md",
+                "file": "Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/DirectData/Produtos Consulta.md"
+                "file": "Second Brain.md"
               }
             }
           }
@@ -147,9 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8b79cb172ab2b8",
+  "active": "1cbd12b6991eca0d",
   "lastOpenFiles": [
+    "Personal/Personal.md",
+    "Second Brain.md",
+    "Work/Work.md",
+    "Untitled",
+    "Personal/Gaming/Gran Turismo 4/Tuning Guide.md",
+    "Personal/Gaming/Gaming.md",
+    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 4 - Presets.md",
+    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 1 - Introduction.md",
+    "().md",
+    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 4-  Car Tuning Presets 1.md",
+    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 3 - Tuning.md",
+    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 2 - Parts.md",
+    "Personal/Gaming/Gran Turismo 4/To Do.md",
     "Work/DirectData/Exemplos Retorno/Mix PF 100.pdf",
+    "Personal/Gaming/Gran Turismo 4/Tuning",
+    "Personal/Gaming/Gran Turismo 4",
+    "Personal/Gaming",
+    "Personal",
     "Work/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Work/DirectData/Produtos Consulta.md",
     "DirectData CadastralPf - Aécio.png.md",
@@ -164,15 +181,7 @@
     "Work/Images/DirectData CadastralPf - Aécio.png",
     "Work/Images/DirectData CadastralPf - Leonardo.png",
     "2023-11-27.md",
-    "Work/DirectData",
-    "Work/Untitled.md",
-    "Work/Images/Redis Cache.png.~tmp",
     "Work/Images/Redis Cache.png",
-    "Work/Images",
-    "Untitled.canvas",
-    "Work/Useful",
-    "Personal",
-    "Work",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }
