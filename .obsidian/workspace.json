@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "980ff17ea222c86d",
+        "id": "2ae10a7a759df008",
         "type": "tabs",
         "children": [
           {
-            "id": "54608ffa44a79ab0",
+            "id": "cf2bb987cd02a310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Useful/Queries.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,9 +81,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Useful/Queries.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Useful/Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/Useful/Queries.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,41 +138,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54608ffa44a79ab0",
+  "active": "cf2bb987cd02a310",
   "lastOpenFiles": [
-    "Work/Useful/Usuários Portal.md",
-    "Work/Useful/Documentos Para Consulta.md",
-    "Work/Useful/Docker Containers.md",
-    "Work/Useful/Queries.md",
-    "Work/Images/RedisCache.png.md",
-    "Work/Images/RedisCache.png",
-    "Redis Cache.png.png",
-    "Work/Images",
-    "README.md",
+    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Personal/Personal.md",
+    "README.md",
+    "Personal/Projects/Projects.md",
     "Personal/Gaming/Gaming.md",
+    "Personal/Projects/Unity Chess Game",
+    "Deps/Deps.md",
+    "Personal/Projects",
+    "Negão Multimarcas/Negão Multimarcas.md",
+    "Negão Multimarcas",
+    "Deps/Useful/Queries.md",
+    "Deps/Useful/Usuários Portal.md",
+    "Deps/Useful/Documentos Para Consulta.md",
+    "Deps/Useful/Docker Containers.md",
+    "Work/Images/RedisCache.png.md",
+    "Deps/Images/RedisCache.png",
+    "Redis Cache.png.png",
+    "Deps/Images",
     "Personal/Gaming/Gran Turismo 4/Tuning Guide.md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 2 - Parts.md",
-    "Work/Work.md",
     "Second Brain.md",
-    "Untitled",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 4 - Presets.md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 1 - Introduction.md",
     "().md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 4-  Car Tuning Presets 1.md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 3 - Tuning.md",
     "Personal/Gaming/Gran Turismo 4/To Do.md",
-    "Work/DirectData/Exemplos Retorno/Mix PF 100.pdf",
+    "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
     "Personal/Gaming/Gran Turismo 4/Tuning",
     "Personal/Gaming/Gran Turismo 4",
     "Personal/Gaming",
     "Personal",
-    "Work/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
-    "Work/DirectData/Produtos Consulta.md",
+    "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
+    "Deps/DirectData/Produtos Consulta.md",
     "DirectData CadastralPf - Aécio.png.md",
-    "Work/DirectData/Exemplos Retorno",
     "Work/Useful/Redis Cache.md",
-    "Work/Images/DirectData CadastralPf - Leonardo.png.~tmp",
     "Work/Images/DirectData CadastralPf - Aécio.png",
     "Work/Images/DirectData CadastralPf - Leonardo.png",
     "2023-11-27.md",
