@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae10a7a759df008",
+        "id": "d8dba945590fadba",
         "type": "tabs",
         "children": [
           {
-            "id": "cf2bb987cd02a310",
+            "id": "58d6042998319fc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deps/Deps.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deps/Deps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deps/Deps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deps/Deps.md"
+              }
             }
           }
         ]
@@ -138,19 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf2bb987cd02a310",
+  "active": "58d6042998319fc8",
   "lastOpenFiles": [
-    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
-    "Personal/Personal.md",
+    "SEGURA AÍ.md",
+    "Deps/Useful/Queries.md",
+    "Deps/Images/Conexao VPN.png",
+    "Deps/Images/Untitled.md",
+    "PJ 308.png",
+    "PF 101.png",
+    "Deps/DirectData/Produtos Consulta.md",
     "README.md",
+    "2023-12-01.md",
+    "Untitled.canvas",
+    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Personal/Projects/Projects.md",
+    "Personal/Personal.md",
     "Personal/Gaming/Gaming.md",
     "Personal/Projects/Unity Chess Game",
     "Deps/Deps.md",
     "Personal/Projects",
     "Negão Multimarcas/Negão Multimarcas.md",
     "Negão Multimarcas",
-    "Deps/Useful/Queries.md",
     "Deps/Useful/Usuários Portal.md",
     "Deps/Useful/Documentos Para Consulta.md",
     "Deps/Useful/Docker Containers.md",
@@ -173,13 +189,8 @@
     "Personal/Gaming",
     "Personal",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
-    "Deps/DirectData/Produtos Consulta.md",
-    "DirectData CadastralPf - Aécio.png.md",
-    "Work/Useful/Redis Cache.md",
     "Work/Images/DirectData CadastralPf - Aécio.png",
     "Work/Images/DirectData CadastralPf - Leonardo.png",
-    "2023-11-27.md",
-    "Work/Images/Redis Cache.png",
-    "Untitled.canvas"
+    "Work/Images/Redis Cache.png"
   ]
 }
