@@ -1,2 +1,3 @@
--  [[Gaming]]
--  [[Projects]]
+![[Projects]]
+
+![[Gaming]]

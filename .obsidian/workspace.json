@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8dba945590fadba",
+        "id": "f783aeaaec9e0df0",
         "type": "tabs",
         "children": [
           {
-            "id": "58d6042998319fc8",
+            "id": "2683b652c5f33fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Deps.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Deps.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Deps.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Deps.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58d6042998319fc8",
+  "active": "2683b652c5f33fad",
   "lastOpenFiles": [
+    "Personal/Personal.md",
+    "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
+    "Personal/Gaming/Gaming.md",
+    "Personal/Gaming/Gran Turismo 4/To Do.md",
+    "Personal/Gaming/From Software/Elden Ring/Elden Ring.md",
+    "Personal/Gaming/From Software/Dark Souls III/Dark Souls III.md",
+    "Personal/Gaming/From Software/Elden Ring",
+    "Personal/Gaming/From Software/Sekiro",
+    "Personal/Gaming/From Software/Untitled.md",
+    "Personal/Gaming/From Software/Dark Souls II/Dark Souls II Scholar of the Firs Sin.md",
+    "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
+    "Personal/Gaming/From Software/Dark Souls II",
+    "Personal/Gaming/From Software/Dark Souls",
+    "Personal/Gaming/Dark Souls/Untitled.md",
+    "Personal/Gaming/From Software/Dark Souls III",
+    "Personal/Gaming/From Software",
+    "Deps/Deps.md",
     "SEGURA AÍ.md",
     "Deps/Useful/Queries.md",
     "Deps/Images/Conexao VPN.png",
@@ -160,10 +177,7 @@
     "Untitled.canvas",
     "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Personal/Projects/Projects.md",
-    "Personal/Personal.md",
-    "Personal/Gaming/Gaming.md",
     "Personal/Projects/Unity Chess Game",
-    "Deps/Deps.md",
     "Personal/Projects",
     "Negão Multimarcas/Negão Multimarcas.md",
     "Negão Multimarcas",
@@ -176,19 +190,6 @@
     "Deps/Images",
     "Personal/Gaming/Gran Turismo 4/Tuning Guide.md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 2 - Parts.md",
-    "Second Brain.md",
-    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 4 - Presets.md",
-    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 1 - Introduction.md",
-    "().md",
-    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 4-  Car Tuning Presets 1.md",
-    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 3 - Tuning.md",
-    "Personal/Gaming/Gran Turismo 4/To Do.md",
-    "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
-    "Personal/Gaming/Gran Turismo 4/Tuning",
-    "Personal/Gaming/Gran Turismo 4",
-    "Personal/Gaming",
-    "Personal",
-    "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Work/Images/DirectData CadastralPf - Aécio.png",
     "Work/Images/DirectData CadastralPf - Leonardo.png",
     "Work/Images/Redis Cache.png"
