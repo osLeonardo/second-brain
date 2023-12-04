@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Personal/Personal.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Personal/Personal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Personal/Personal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Personal/Personal.md"
               }
             }
           }
@@ -148,17 +148,18 @@
   },
   "active": "2683b652c5f33fad",
   "lastOpenFiles": [
-    "Personal/Personal.md",
-    "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
     "Personal/Gaming/Gaming.md",
+    "Personal/Personal.md",
+    "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
+    "Personal/Gaming/From Software/Dark Souls II/Dark Souls II Scholar of the First Sin.md",
+    "README.md",
+    "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
     "Personal/Gaming/Gran Turismo 4/To Do.md",
     "Personal/Gaming/From Software/Elden Ring/Elden Ring.md",
     "Personal/Gaming/From Software/Dark Souls III/Dark Souls III.md",
     "Personal/Gaming/From Software/Elden Ring",
     "Personal/Gaming/From Software/Sekiro",
     "Personal/Gaming/From Software/Untitled.md",
-    "Personal/Gaming/From Software/Dark Souls II/Dark Souls II Scholar of the Firs Sin.md",
-    "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
     "Personal/Gaming/From Software/Dark Souls II",
     "Personal/Gaming/From Software/Dark Souls",
     "Personal/Gaming/Dark Souls/Untitled.md",
@@ -172,7 +173,6 @@
     "PJ 308.png",
     "PF 101.png",
     "Deps/DirectData/Produtos Consulta.md",
-    "README.md",
     "2023-12-01.md",
     "Untitled.canvas",
     "Personal/Projects/Unity Chess Game/Unity Chess Game.md",

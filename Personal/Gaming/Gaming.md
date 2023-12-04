@@ -5,7 +5,7 @@
 #### From Software
 ![[Dark Souls Remastered]]
 
-![[Dark Souls II Scholar of the Firs Sin]]
+![[Dark Souls II Scholar of the First Sin]]
 
 ![[Dark Souls III]]
 
