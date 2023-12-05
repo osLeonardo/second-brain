@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2683b652c5f33fad",
+            "id": "b512a34fa55c45f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Personal.md",
-                "mode": "preview",
+                "file": "Deps/DirectData/Produtos Consulta.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Personal.md",
+                "file": "Deps/DirectData/Produtos Consulta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Personal.md",
+                "file": "Deps/DirectData/Produtos Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Personal.md"
+                "file": "Deps/DirectData/Produtos Consulta.md"
               }
             }
           }
@@ -146,52 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2683b652c5f33fad",
+  "active": "b512a34fa55c45f0",
   "lastOpenFiles": [
-    "Personal/Gaming/Gaming.md",
+    "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
+    "README.md",
+    "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
+    "SEGURA AÍ.md",
+    "Deps/DirectData/Produtos Consulta.md",
+    "PF 101.png",
+    "PJ 308.png",
+    "Courses Anotations/Courses Anotations.md",
+    "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
+    "Deps/Useful/Usuários Portal.md",
+    "Courses Anotations",
+    "Pasted image 20231205160146.png",
+    "Pasted image 20231205160126.png",
+    "Deps/Useful/Docker Containers.md",
+    "Deps/Useful/Queries.md",
+    "Deps/Images/Novo IP.png",
+    "Deps/Images/Conexao VPN.png",
+    "Deps/Deps.md",
+    "Deps/Useful/Documentos Para Consulta.md",
     "Personal/Personal.md",
+    "Personal/Gaming/Gaming.md",
+    "Personal/Gaming/From Software/From Software.md",
     "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
     "Personal/Gaming/From Software/Dark Souls II/Dark Souls II Scholar of the First Sin.md",
-    "README.md",
     "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
     "Personal/Gaming/Gran Turismo 4/To Do.md",
     "Personal/Gaming/From Software/Elden Ring/Elden Ring.md",
     "Personal/Gaming/From Software/Dark Souls III/Dark Souls III.md",
     "Personal/Gaming/From Software/Elden Ring",
     "Personal/Gaming/From Software/Sekiro",
-    "Personal/Gaming/From Software/Untitled.md",
     "Personal/Gaming/From Software/Dark Souls II",
     "Personal/Gaming/From Software/Dark Souls",
     "Personal/Gaming/Dark Souls/Untitled.md",
     "Personal/Gaming/From Software/Dark Souls III",
     "Personal/Gaming/From Software",
-    "Deps/Deps.md",
-    "SEGURA AÍ.md",
-    "Deps/Useful/Queries.md",
-    "Deps/Images/Conexao VPN.png",
     "Deps/Images/Untitled.md",
-    "PJ 308.png",
-    "PF 101.png",
-    "Deps/DirectData/Produtos Consulta.md",
     "2023-12-01.md",
     "Untitled.canvas",
     "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Personal/Projects/Projects.md",
     "Personal/Projects/Unity Chess Game",
-    "Personal/Projects",
     "Negão Multimarcas/Negão Multimarcas.md",
-    "Negão Multimarcas",
-    "Deps/Useful/Usuários Portal.md",
-    "Deps/Useful/Documentos Para Consulta.md",
-    "Deps/Useful/Docker Containers.md",
     "Work/Images/RedisCache.png.md",
     "Deps/Images/RedisCache.png",
     "Redis Cache.png.png",
-    "Deps/Images",
-    "Personal/Gaming/Gran Turismo 4/Tuning Guide.md",
-    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 2 - Parts.md",
     "Work/Images/DirectData CadastralPf - Aécio.png",
-    "Work/Images/DirectData CadastralPf - Leonardo.png",
-    "Work/Images/Redis Cache.png"
+    "Work/Images/DirectData CadastralPf - Leonardo.png"
   ]
 }
