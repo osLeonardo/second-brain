@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b512a34fa55c45f0",
+            "id": "40e046cd541c8468",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
-                "mode": "source",
+                "file": "Courses Anotations/Courses Anotations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13423d40cf98085d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses Anotations/Anotations/Refactoring Code.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Courses Anotations/Anotations/Refactoring Code.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Courses Anotations/Anotations/Refactoring Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md"
+                "file": "Courses Anotations/Anotations/Refactoring Code.md"
               }
             }
           }
@@ -146,28 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b512a34fa55c45f0",
+  "active": "13423d40cf98085d",
   "lastOpenFiles": [
-    "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
+    "Courses Anotations/Courses Anotations.md",
+    "Courses Anotations/Anotations/Refactoring Code.md",
+    "Pasted image 20231207101840.png",
     "README.md",
+    "Courses Anotations/Anotations",
+    "Deps/Deps.md",
+    "Deps/DirectData/Produtos Consulta.md",
+    "Mockaroon Template.md",
+    "Deps/Images/Conexao VPN.png",
+    "Deps/Images/Novo IP.png",
+    "Deps/Useful/Docker Containers.md",
+    "Personal/Personal.md",
+    "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
+    "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Bolsonaro).pdf",
+    "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
+    "Deps/Useful/Queries.md",
+    "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
     "SEGURA AÍ.md",
-    "Deps/DirectData/Produtos Consulta.md",
     "PF 101.png",
     "PJ 308.png",
-    "Courses Anotations/Courses Anotations.md",
-    "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
     "Deps/Useful/Usuários Portal.md",
     "Courses Anotations",
     "Pasted image 20231205160146.png",
     "Pasted image 20231205160126.png",
-    "Deps/Useful/Docker Containers.md",
-    "Deps/Useful/Queries.md",
-    "Deps/Images/Novo IP.png",
-    "Deps/Images/Conexao VPN.png",
-    "Deps/Deps.md",
     "Deps/Useful/Documentos Para Consulta.md",
-    "Personal/Personal.md",
     "Personal/Gaming/Gaming.md",
     "Personal/Gaming/From Software/From Software.md",
     "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
@@ -179,21 +198,14 @@
     "Personal/Gaming/From Software/Elden Ring",
     "Personal/Gaming/From Software/Sekiro",
     "Personal/Gaming/From Software/Dark Souls II",
-    "Personal/Gaming/From Software/Dark Souls",
     "Personal/Gaming/Dark Souls/Untitled.md",
-    "Personal/Gaming/From Software/Dark Souls III",
-    "Personal/Gaming/From Software",
     "Deps/Images/Untitled.md",
     "2023-12-01.md",
     "Untitled.canvas",
     "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Personal/Projects/Projects.md",
-    "Personal/Projects/Unity Chess Game",
-    "Negão Multimarcas/Negão Multimarcas.md",
-    "Work/Images/RedisCache.png.md",
     "Deps/Images/RedisCache.png",
     "Redis Cache.png.png",
-    "Work/Images/DirectData CadastralPf - Aécio.png",
-    "Work/Images/DirectData CadastralPf - Leonardo.png"
+    "Work/Images/DirectData CadastralPf - Aécio.png"
   ]
 }
