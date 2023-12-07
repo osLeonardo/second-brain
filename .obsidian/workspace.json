@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses Anotations/Anotations/Refactoring Code.md",
-                "mode": "preview",
+                "file": "Deps/DirectData/Produtos Consulta.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses Anotations/Anotations/Refactoring Code.md",
+                "file": "Deps/DirectData/Produtos Consulta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses Anotations/Anotations/Refactoring Code.md",
+                "file": "Deps/DirectData/Produtos Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses Anotations/Anotations/Refactoring Code.md"
+                "file": "Deps/DirectData/Produtos Consulta.md"
               }
             }
           }
@@ -161,13 +161,15 @@
   },
   "active": "13423d40cf98085d",
   "lastOpenFiles": [
-    "Courses Anotations/Courses Anotations.md",
+    "Deps/Useful/Queries.md",
+    "Deps/Useful/Usuários Portal.md",
+    "Deps/DirectData/Produtos Consulta.md",
     "Courses Anotations/Anotations/Refactoring Code.md",
+    "Courses Anotations/Courses Anotations.md",
     "Pasted image 20231207101840.png",
     "README.md",
     "Courses Anotations/Anotations",
     "Deps/Deps.md",
-    "Deps/DirectData/Produtos Consulta.md",
     "Mockaroon Template.md",
     "Deps/Images/Conexao VPN.png",
     "Deps/Images/Novo IP.png",
@@ -176,13 +178,11 @@
     "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Bolsonaro).pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
-    "Deps/Useful/Queries.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
     "SEGURA AÍ.md",
     "PF 101.png",
     "PJ 308.png",
-    "Deps/Useful/Usuários Portal.md",
     "Courses Anotations",
     "Pasted image 20231205160146.png",
     "Pasted image 20231205160126.png",

@@ -4,8 +4,8 @@
 
 **Financeiro**
 - login: leo@financeiro.com
-- senha: 129!AAaa
+- senha: 129@AAaa
 
 **Usuário**
 - login: leo@almeria.com
-- senha: 129!AAaa
+- senha: 129@AAaa
