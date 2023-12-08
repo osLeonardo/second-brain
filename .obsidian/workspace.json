@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses Anotations/Courses Anotations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13423d40cf98085d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Courses Anotations/Anotations/SOLID Principles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Courses Anotations/Anotations/SOLID Principles.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Courses Anotations/Anotations/SOLID Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md"
+                "file": "Courses Anotations/Anotations/SOLID Principles.md"
               }
             }
           }
@@ -159,13 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13423d40cf98085d",
+  "active": "40e046cd541c8468",
   "lastOpenFiles": [
-    "Deps/Useful/Queries.md",
+    "Courses Anotations/Courses Anotations.md",
+    "Personal/Gaming/Gran Turismo 4/Tuning Guide.md",
+    "Personal/Gaming/Gran Turismo 4/To Do.md",
+    "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 1 - Introduction.md",
+    "Personal/Gaming/Gaming.md",
     "Deps/Useful/Usuários Portal.md",
+    "Deps/Useful/Queries.md",
+    "Deps/Useful/Docker Containers.md",
     "Deps/DirectData/Produtos Consulta.md",
     "Courses Anotations/Anotations/Refactoring Code.md",
-    "Courses Anotations/Courses Anotations.md",
+    "Courses Anotations/Anotations/SOLID Principles.md",
     "Pasted image 20231207101840.png",
     "README.md",
     "Courses Anotations/Anotations",
@@ -173,7 +166,6 @@
     "Mockaroon Template.md",
     "Deps/Images/Conexao VPN.png",
     "Deps/Images/Novo IP.png",
-    "Deps/Useful/Docker Containers.md",
     "Personal/Personal.md",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Bolsonaro).pdf",
@@ -187,12 +179,10 @@
     "Pasted image 20231205160146.png",
     "Pasted image 20231205160126.png",
     "Deps/Useful/Documentos Para Consulta.md",
-    "Personal/Gaming/Gaming.md",
     "Personal/Gaming/From Software/From Software.md",
     "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
     "Personal/Gaming/From Software/Dark Souls II/Dark Souls II Scholar of the First Sin.md",
     "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
-    "Personal/Gaming/Gran Turismo 4/To Do.md",
     "Personal/Gaming/From Software/Elden Ring/Elden Ring.md",
     "Personal/Gaming/From Software/Dark Souls III/Dark Souls III.md",
     "Personal/Gaming/From Software/Elden Ring",
@@ -202,8 +192,6 @@
     "Deps/Images/Untitled.md",
     "2023-12-01.md",
     "Untitled.canvas",
-    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
-    "Personal/Projects/Projects.md",
     "Deps/Images/RedisCache.png",
     "Redis Cache.png.png",
     "Work/Images/DirectData CadastralPf - Aécio.png"

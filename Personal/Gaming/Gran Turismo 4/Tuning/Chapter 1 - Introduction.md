@@ -13,7 +13,7 @@ general.
             (Double Note: This section was specifically designed to
             answer your common questions and i STILL am getting them,
             so please read this segment, especially #'s 5, 6, 7, and 8!)
-                  
+
 1 - The 'Tuning Presets' are simply that; they are not car-defining and are
 not supposed to be, i encourage you to mix them up and find an optimal 
 formula for yourself to use. 

@@ -5,7 +5,7 @@
 1. Apply the code Refactoring;
 2. Verify if the code behavior was preserved.
 
-#### Principle of Least Astonishment
+### Principle of Least Astonishment
 - "Do what users / consumers expect";
 - The Code should:
 	1. Be simple;
@@ -37,7 +37,7 @@
 	- Hide real / original intent of the code;
 	- Confuse code reader / reviewer.
 
-##### "Smells" Hierarchy
+### "Smells" Hierarchy
 	LOW to HIGH
 1. Statement Smells;
 2. Method Smells;
