@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses Anotations/Anotations/SOLID Principles.md",
-                "mode": "source",
+                "file": "Personal/Gaming/Gran Turismo 4/To Do.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses Anotations/Anotations/SOLID Principles.md",
+                "file": "Personal/Gaming/Gran Turismo 4/To Do.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses Anotations/Anotations/SOLID Principles.md",
+                "file": "Personal/Gaming/Gran Turismo 4/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses Anotations/Anotations/SOLID Principles.md"
+                "file": "Personal/Gaming/Gran Turismo 4/To Do.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "40e046cd541c8468",
   "lastOpenFiles": [
+    "Courses Anotations/Anotations/SOLID Principles.md",
     "Courses Anotations/Courses Anotations.md",
     "Personal/Gaming/Gran Turismo 4/Tuning Guide.md",
     "Personal/Gaming/Gran Turismo 4/To Do.md",
@@ -158,7 +159,6 @@
     "Deps/Useful/Docker Containers.md",
     "Deps/DirectData/Produtos Consulta.md",
     "Courses Anotations/Anotations/Refactoring Code.md",
-    "Courses Anotations/Anotations/SOLID Principles.md",
     "Pasted image 20231207101840.png",
     "README.md",
     "Courses Anotations/Anotations",
