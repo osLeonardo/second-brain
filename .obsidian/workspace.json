@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Gaming/Gran Turismo 4/To Do.md",
-                "mode": "preview",
+                "file": "Deps/Useful/Queries.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Gaming/Gran Turismo 4/To Do.md",
+                "file": "Deps/Useful/Queries.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Gaming/Gran Turismo 4/To Do.md",
+                "file": "Deps/Useful/Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Gaming/Gran Turismo 4/To Do.md"
+                "file": "Deps/Useful/Queries.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "40e046cd541c8468",
   "lastOpenFiles": [
+    "Personal/Gaming/TUNIC/Achievement.md",
+    "Personal/Gaming/Gaming.md",
+    "Personal/Gaming/Gran Turismo 4/GT4 To Do.md",
+    "Personal/Gaming/TUNIC",
     "Courses Anotations/Anotations/SOLID Principles.md",
     "Courses Anotations/Courses Anotations.md",
-    "Personal/Gaming/Gran Turismo 4/Tuning Guide.md",
-    "Personal/Gaming/Gran Turismo 4/To Do.md",
+    "Personal/Gaming/Gran Turismo 4/GT4 Tuning Guide.md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 1 - Introduction.md",
-    "Personal/Gaming/Gaming.md",
     "Deps/Useful/Usuários Portal.md",
     "Deps/Useful/Queries.md",
     "Deps/Useful/Docker Containers.md",
@@ -187,10 +189,8 @@
     "Personal/Gaming/From Software/Dark Souls III/Dark Souls III.md",
     "Personal/Gaming/From Software/Elden Ring",
     "Personal/Gaming/From Software/Sekiro",
-    "Personal/Gaming/From Software/Dark Souls II",
     "Personal/Gaming/Dark Souls/Untitled.md",
     "Deps/Images/Untitled.md",
-    "2023-12-01.md",
     "Untitled.canvas",
     "Deps/Images/RedisCache.png",
     "Redis Cache.png.png",
