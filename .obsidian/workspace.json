@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Useful/Queries.md",
+                "file": "Personal/Gaming/TUNIC/Achievement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/Queries.md",
+                "file": "Personal/Gaming/TUNIC/Achievement.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/Queries.md",
+                "file": "Personal/Gaming/TUNIC/Achievement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Useful/Queries.md"
+                "file": "Personal/Gaming/TUNIC/Achievement.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "40e046cd541c8468",
   "lastOpenFiles": [
-    "Personal/Gaming/TUNIC/Achievement.md",
     "Personal/Gaming/Gaming.md",
+    "Deps/Useful/Queries.md",
+    "Personal/Gaming/TUNIC/Achievement.md",
     "Personal/Gaming/Gran Turismo 4/GT4 To Do.md",
     "Personal/Gaming/TUNIC",
     "Courses Anotations/Anotations/SOLID Principles.md",
@@ -157,7 +158,6 @@
     "Personal/Gaming/Gran Turismo 4/GT4 Tuning Guide.md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 1 - Introduction.md",
     "Deps/Useful/Usuários Portal.md",
-    "Deps/Useful/Queries.md",
     "Deps/Useful/Docker Containers.md",
     "Deps/DirectData/Produtos Consulta.md",
     "Courses Anotations/Anotations/Refactoring Code.md",
