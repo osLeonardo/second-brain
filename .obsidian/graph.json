@@ -6,8 +6,51 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 2713863
+      }
+    },
+    {
+      "query": "path:Deps  ",
+      "color": {
+        "a": 1,
+        "rgb": 15289110
+      }
+    },
+    {
+      "query": "path:\"Courses Anotations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1237706
+      }
+    },
+    {
+      "query": "path:\"Personal/Gaming/Gran Turismo 4\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13838119
+      }
+    },
+    {
+      "query": "path:Personal/Gaming  ",
+      "color": {
+        "a": 1,
+        "rgb": 1991634
+      }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 11024093
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.50364583333333,

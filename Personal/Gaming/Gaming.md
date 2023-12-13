@@ -1,5 +1,5 @@
 #### TUNIC
-- [[Achievement]]
+- [[TUNIC Achievements]]
 
 #### Gran Turismo 4
 -  [[GT4 Tuning Guide]]
