@@ -2,8 +2,7 @@
 
 **Dados Cadastrais PF**
 - Mix PF 100 - 45075A73
->[[Mix PF 100 (Bolsonaro).pdf]]
->[[Mix PF 100 (Lula).pdf]]
+>[[Mix PF 100.pdf]]
 
 **Receita Federal PF**
 - Mix PF 101 - 82737459
@@ -11,6 +10,11 @@
 
 **Sintegra PF**
 - Mix PF 102 - D30E2DE1
+>Exemplo de Retorno
+>*problema com a sigla para pesquisa*
+
+**Todos PF**
+- Mix PF 103 - EDED08E3
 >Exemplo de Retorno
 
 ### Pessoa Jurídica
@@ -25,4 +29,8 @@
 
 **Sintegra PJ**
 - Mix PJ 309 - 0F83C328
+>[[Mix PJ 309.pdf]]
+
+**Todos PJ**
+- Mix PF 310 - E1F389D9
 >Exemplo de Retorno
