@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Deps/DirectData/Produtos Consulta.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,6 +148,7 @@
   },
   "active": "481c87c5620d81e2",
   "lastOpenFiles": [
+    "Deps/DirectData/Exemplos Retorno/Mix PJ 310.pdf",
     "Personal/Gaming/TUNIC/TUNIC Achievements.md",
     "Deps/DirectData/Produtos Consulta.md",
     "Deps/Useful/Queries.md",
