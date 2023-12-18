@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Useful/Queries.md",
-                "mode": "source",
+                "file": "Deps/DirectData/Produtos Consulta.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/Queries.md",
+                "file": "Deps/DirectData/Produtos Consulta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/Queries.md",
+                "file": "Deps/DirectData/Produtos Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Useful/Queries.md"
+                "file": "Deps/DirectData/Produtos Consulta.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   "lastOpenFiles": [
     "Personal/Gaming/TUNIC/TUNIC Achievements.md",
     "Deps/DirectData/Produtos Consulta.md",
+    "Deps/Useful/Queries.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 309.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
     "Deps/Useful/Docker Containers.md",
-    "Deps/Useful/Queries.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
     "Personal/Gaming/Gaming.md",
     "Personal/Gaming/Gran Turismo 4/GT4 To Do.md",
