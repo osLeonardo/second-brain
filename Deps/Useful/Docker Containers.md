@@ -4,11 +4,16 @@
 - **Redis**
 >docker run --name redis -p 6379:6379 -d redis:7-alpine
 
-
-- **Limpar Cache do Banco do Redis**
+- **Redis CLI (rdcli)**
 >npm install redis-cli -g
->**(instala o rdcli global)**
->
+
+- **Limpar Cache do Banco do Redis**>
+>***Banco Local***
 >rdcli
 >flushall
+>
+>***Banco QA***
+>rdcli -h 64.227.104.246
+>flushall
+>
 >![[RedisCache.png]]

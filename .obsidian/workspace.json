@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Deps/Useful/Usuários Portal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Deps/Useful/Usuários Portal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md",
+                "file": "Deps/Useful/Usuários Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/DirectData/Produtos Consulta.md"
+                "file": "Deps/Useful/Usuários Portal.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "481c87c5620d81e2",
   "lastOpenFiles": [
+    "Deps/Useful/Queries.md",
+    "Deps/Useful/Usuários Portal.md",
+    "Deps/Useful/Docker Containers.md",
+    "Deps/DirectData/Produtos Consulta.md",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 310.pdf",
     "Personal/Gaming/TUNIC/TUNIC Achievements.md",
-    "Deps/DirectData/Produtos Consulta.md",
-    "Deps/Useful/Queries.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 309.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
-    "Deps/Useful/Docker Containers.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
     "Personal/Gaming/Gaming.md",
     "Personal/Gaming/Gran Turismo 4/GT4 To Do.md",
@@ -166,7 +167,6 @@
     "Courses Anotations/Courses Anotations.md",
     "Personal/Gaming/Gran Turismo 4/GT4 Tuning Guide.md",
     "Personal/Gaming/Gran Turismo 4/Tuning/Chapter 1 - Introduction.md",
-    "Deps/Useful/Usuários Portal.md",
     "Courses Anotations/Anotations/Refactoring Code.md",
     "Pasted image 20231207101840.png",
     "README.md",
