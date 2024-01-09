@@ -1,19 +1,32 @@
+- **Docker Erro 125**
+>No powershell do Visual Studio
+>
+>	docker network create portal-net
+
 - **RabbitMq**
->docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 --hostname rabbitmq-master rabbitmq:3-management
+>	docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 --hostname rabbitmq-master rabbitmq:3-management
 
 - **Redis**
->docker run --name redis -p 6379:6379 -d redis:7-alpine
+>	docker run --name redis -p 6379:6379 -d redis:7-alpine
 
 - **Redis CLI (rdcli)**
->npm install redis-cli -g
+>	npm install redis-cli -g
 
 - **Limpar Cache do Banco do Redis**>
 >***Banco Local***
->rdcli
->flushall
+>qualquer terminal:
 >
+>	rdcli
+>então:
+> 
+>	flushall
+>====================================
 >***Banco QA***
->rdcli -h 64.227.104.246
->flushall
+>qualquer terminal:
+>
+>	rdcli -h 64.227.104.246
+> então:
+> 
+>	flushall
 >
 >![[RedisCache.png]]
