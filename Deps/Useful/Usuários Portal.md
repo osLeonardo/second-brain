@@ -1,15 +1,19 @@
-**Administrador Local | QA**
+**Administrador ( Local | QA )**
 - login: usuario.adm@me.com
 - senha: Deps@123
 
-**Usuário Local | QA**
+**Usuário Gestor ( Local | QA ) - Almeria Teste**
 - login: leo@almeria.com
 - senha: 129@AAaa
 
-**Financeiro Local** 
+**Usuário Gestor ( Local ) - Aurora Tech**
+- login: leo@aurora.com
+- senha: 129@AAaa
+
+**Financeiro ( Local )** 
 - login: leo@financeiro.com
 - senha: 129@AAaa
 
-**Financeiro QA** 
+**Financeiro ( QA )** 
 - login: kati.financeiro@me.com
 - senha: SfwAsn3007@
