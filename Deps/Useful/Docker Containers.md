@@ -1,7 +1,10 @@
-- **Docker Erro 125**
->No powershell do Visual Studio
+- **Erros do Docker**
+>Erro 125 - No powershell do Visual Studio:
 >
 >	docker network create portal-net
+>Não funciona de jeito nenhum:
+>
+>	Optimize-VHD -Path .\ext4.vhdx -Mode full
 
 - **RabbitMq**
 >	docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 --hostname rabbitmq-master rabbitmq:3-management
