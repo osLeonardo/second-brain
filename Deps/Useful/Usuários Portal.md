@@ -10,6 +10,11 @@
 - login: leo@aurora.com
 - senha: 129@AAaa
 
+**Usuário Gestor ( Local ) - MTS 01 Tech**
+
+- login: [leo@mts.com](mailto:leo@aurora.com)
+- senha: 129@AAaa
+
 **Financeiro ( Local )** 
 - login: leo@financeiro.com
 - senha: 129@AAaa
