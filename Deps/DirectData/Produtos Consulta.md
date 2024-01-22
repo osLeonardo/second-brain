@@ -16,7 +16,7 @@
 - Mix PF 077 - 349508DC (QA: - )
 
 **Todos PF**
-- Mix PF 103 - EDED08E3 (QA: - )
+- Mix PF 103 - EDED08E3 (QA: Mix PF 166)
 
 ### Pessoa Jurídica
 
@@ -30,4 +30,4 @@
 - Mix PJ 309 - 0F83C328 (QA: Mix PJ 366)
 
 **Todos PJ**
-- Mix PJ 310 - E1F389D9 (QA: - )
+- Mix PJ 310 - E1F389D9 (QA: Mix PJ 365)
