@@ -2,6 +2,10 @@
 - login: usuario.adm@me.com
 - senha: Deps@123
 
+**Financeiro ( Local | QA )** 
+- login: leo@financeiro.com
+- senha: 129@AAaa
+
 **Usuário Gestor ( Local | QA ) - Almeria Teste**
 - login: leo@almeria.com
 - senha: 129@AAaa
@@ -14,11 +18,3 @@
 
 - login: [leo@mts.com](mailto:leo@aurora.com)
 - senha: 129@AAaa
-
-**Financeiro ( Local )** 
-- login: leo@financeiro.com
-- senha: 129@AAaa
-
-**Financeiro ( QA )** 
-- login: kati.financeiro@me.com
-- senha: SfwAsn3007@
