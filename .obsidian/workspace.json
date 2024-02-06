@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md"
+                "file": "Deps/Useful/DirectData/Produtos Consulta.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8b79cb172ab2b8",
+  "active": "a7c55603a793cda2",
   "lastOpenFiles": [
-    "Deps/DirectData/Produtos Consulta.md",
-    "Deps/Useful/Usuários Portal.md",
-    "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
     "Deps/Useful/Docker Containers.md",
+    "Deps/Useful/DirectData/Produtos Consulta.md",
+    "Deps/Useful/Usuários Portal.md",
+    "Deps/Deps.md",
+    "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
     "Personal/Gaming/Gaming.md",
     "TUNIC Achievements.md",
     "Deps/Useful/Queries.md",
@@ -173,7 +174,6 @@
     "Pasted image 20231207101840.png",
     "README.md",
     "Courses Anotations/Anotations",
-    "Deps/Deps.md",
     "Mockaroon Template.md",
     "Deps/Images/Conexao VPN.png",
     "Deps/Images/Novo IP.png",
