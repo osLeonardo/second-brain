@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d7a9f642b6887c5",
+        "id": "333d3967c67b33d3",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a573266529f568",
+            "id": "481c87c5620d81e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Projects/Unity Chess Game/Unity Chess Game.md"
+              }
             }
           }
         ]
@@ -138,9 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0a573266529f568",
+  "active": "481c87c5620d81e2",
   "lastOpenFiles": [
-    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Personal/Projects/Projects.md",
     "Personal/Gaming/Gaming.md",
     "Deps/DirectData/Produtos Consulta.md",
@@ -184,6 +191,7 @@
     "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
     "Personal/Gaming/From Software/Elden Ring/Elden Ring.md",
     "Personal/Gaming/From Software/Dark Souls III/Dark Souls III.md",
+    "Personal/Gaming/Dark Souls/Untitled.md",
     "Untitled.canvas",
     "Redis Cache.png.png",
     "Work/Images/DirectData CadastralPf - Aécio.png"
