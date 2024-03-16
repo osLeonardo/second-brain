@@ -1,6 +1,6 @@
 #### Itens
 - 1 (um) dado de 6 (seis) lados;
-- 1 (um) dado de 20 (20) lados;
+- 1 (um) dado de 20 (vinte) lados;
 - 1 (um) jogo completo  de xadrez (pecas e tabuleiro)
 
 #### Classes

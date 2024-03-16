@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "95c5a985caa4270a",
+    "id": "8d962e4c2c3374ac",
     "type": "split",
     "children": [
       {
-        "id": "da0eaeaa6f9af004",
+        "id": "1d7a9f642b6887c5",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c55603a793cda2",
+            "id": "e0a573266529f568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "733d7fdb03f68151",
+    "id": "5d39a7466eb1ce9c",
     "type": "split",
     "children": [
       {
-        "id": "c03bbed21d8021ca",
+        "id": "36ded03cc5e18057",
         "type": "tabs",
         "children": [
           {
-            "id": "6d8b79cb172ab2b8",
+            "id": "867bbcf31c663051",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "599375a8120fd31c",
+            "id": "7e6f51f5058a624e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "b09b052c3ed56bfe",
+            "id": "3cdc99b9a396b827",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 300
   },
   "right": {
-    "id": "940793d542746a90",
+    "id": "4ca3c5ba639c9f2e",
     "type": "split",
     "children": [
       {
-        "id": "65d4b78d56ee3d73",
+        "id": "2ba3a1c5d7a4853e",
         "type": "tabs",
         "children": [
           {
-            "id": "8b65d7cedc25feb8",
+            "id": "c719195ebe383a7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "ddc9788fefe5dfd7",
+            "id": "f0fed07925f1ccbb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "db93610e88cde797",
+            "id": "f085e242be91f396",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,18 @@
             }
           },
           {
-            "id": "d93a621dc0e8b795",
+            "id": "92c70735f049b10f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,21 +138,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7c55603a793cda2",
+  "active": "e0a573266529f568",
   "lastOpenFiles": [
-    "Deps/Useful/Docker Containers.md",
-    "Deps/Useful/DirectData/Produtos Consulta.md",
-    "Deps/Useful/Usuários Portal.md",
-    "Deps/Deps.md",
-    "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
+    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
+    "Personal/Projects/Projects.md",
     "Personal/Gaming/Gaming.md",
-    "TUNIC Achievements.md",
-    "Deps/Useful/Queries.md",
+    "Deps/DirectData/Produtos Consulta.md",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Personal/Gaming/TUNIC/TUNIC Achievements.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
+    "Deps/Useful/Usuários Portal.md",
+    "Deps/Useful/Queries.md",
+    "Deps/Useful/Docker Containers.md",
     "Deps/Images/RedisCache.png",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 310.pdf",
+    "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 309.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
@@ -174,6 +166,7 @@
     "Pasted image 20231207101840.png",
     "README.md",
     "Courses Anotations/Anotations",
+    "Deps/Deps.md",
     "Mockaroon Template.md",
     "Deps/Images/Conexao VPN.png",
     "Deps/Images/Novo IP.png",
