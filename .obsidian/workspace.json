@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
+                "file": "Deps/Useful/Notebook Deps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
+                "file": "Deps/Useful/Notebook Deps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md",
+                "file": "Deps/Useful/Notebook Deps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Useful/DirectData/Produtos Consulta.md"
+                "file": "Deps/Useful/Notebook Deps.md"
               }
             }
           }
@@ -146,16 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7c55603a793cda2",
+  "active": "6d8b79cb172ab2b8",
   "lastOpenFiles": [
-    "Deps/Useful/Docker Containers.md",
-    "Deps/Useful/DirectData/Produtos Consulta.md",
+    "Deps/Useful/Queries.md",
+    "Deps/Backups/Untitled.md",
+    "Deps/Useful/Notebook Deps.md",
+    "Deps/Images/Conexao VPN.png",
+    "Deps/Backups/AnaliseCredito-20240404",
+    "Deps/Backups",
     "Deps/Useful/Usuários Portal.md",
     "Deps/Deps.md",
+    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
+    "Deps/Useful/Docker Containers.md",
+    "Deps/Useful/DirectData/Produtos Consulta.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
     "Personal/Gaming/Gaming.md",
     "TUNIC Achievements.md",
-    "Deps/Useful/Queries.md",
     "Deps/DirectData/Exemplos Retorno/Mix PJ 307.pdf",
     "Personal/Gaming/TUNIC/TUNIC Achievements.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
@@ -173,12 +179,9 @@
     "Courses Anotations/Anotations/Refactoring Code.md",
     "Pasted image 20231207101840.png",
     "README.md",
-    "Courses Anotations/Anotations",
     "Mockaroon Template.md",
-    "Deps/Images/Conexao VPN.png",
     "Deps/Images/Novo IP.png",
     "Personal/Personal.md",
-    "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Bolsonaro).pdf",
     "SEGURA AÍ.md",
     "PF 101.png",
     "PJ 308.png",
@@ -189,8 +192,6 @@
     "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
     "Personal/Gaming/From Software/Dark Souls II/Dark Souls II Scholar of the First Sin.md",
     "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
-    "Personal/Gaming/From Software/Elden Ring/Elden Ring.md",
-    "Personal/Gaming/From Software/Dark Souls III/Dark Souls III.md",
     "Untitled.canvas",
     "Redis Cache.png.png",
     "Work/Images/DirectData CadastralPf - Aécio.png"

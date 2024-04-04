@@ -1,0 +1,21 @@
+### Apps List
+- Mockoon;
+- Postman;
+- MongoDb 4.4.25;
+- MongoDB Compass;
+- Node.js;
+- DBeaver;
+- Docker;
+- Visual Studio Code;
+- Visual Studio 22 / IntelliJ;
+- Firefox Developer Edition;
+- Chrome Canary;
+- Microsoft Teams;
+- Outlook;
+- Skype;
+- Spotify;
+- ScreenToGif;
+- Unity;
+- Git;
+- PostgtreSQL 14;
+- RabbitMQ;
