@@ -19,3 +19,13 @@
 - Git;
 - PostgtreSQL 14;
 - RabbitMQ;
+
+### Repositories
+- analise-credito;
+- auditoria;
+- ChessBasedGame;
+- consulta-lote;
+- consultas-lote;
+- deps-dados-publicos;
+- deps-portal;
+- frontend;
