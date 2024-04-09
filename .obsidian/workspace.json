@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Useful/Notebook Deps.md",
+                "file": "Deps/Useful/Usuários Portal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/Notebook Deps.md",
+                "file": "Deps/Useful/Usuários Portal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/Notebook Deps.md",
+                "file": "Deps/Useful/Usuários Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Useful/Notebook Deps.md"
+                "file": "Deps/Useful/Usuários Portal.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8b79cb172ab2b8",
+  "active": "a7c55603a793cda2",
   "lastOpenFiles": [
+    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
+    "Deps/Images/Conexao VPN.png",
     "Deps/Useful/Queries.md",
     "Deps/Backups/Untitled.md",
     "Deps/Useful/Notebook Deps.md",
-    "Deps/Images/Conexao VPN.png",
     "Deps/Backups/AnaliseCredito-20240404",
     "Deps/Backups",
     "Deps/Useful/Usuários Portal.md",
     "Deps/Deps.md",
-    "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Deps/Useful/Docker Containers.md",
     "Deps/Useful/DirectData/Produtos Consulta.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 100.pdf",
@@ -191,7 +191,6 @@
     "Personal/Gaming/From Software/From Software.md",
     "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
     "Personal/Gaming/From Software/Dark Souls II/Dark Souls II Scholar of the First Sin.md",
-    "Personal/Gaming/From Software/Sekiro/Sekiro Shadows Die Twice.md",
     "Untitled.canvas",
     "Redis Cache.png.png",
     "Work/Images/DirectData CadastralPf - Aécio.png"
