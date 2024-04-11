@@ -1,3 +1,18 @@
+- **Docker Compose**
+>Atualizar: 
+>
+>	docker compose pull
+>Parar:
+>
+>	docker compose down
+>Iniciar:
+>
+>	docker compose up -d --remove-orphans --force-recreate
+>Iniciar específico:
+>
+>	docker compose up -d [container-name] --force-recreate
+
+
 - **Erros do Docker**
 >Erro 125 - No powershell do Visual Studio:
 >

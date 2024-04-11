@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
-                "mode": "source",
+                "file": "Deps/Useful/Docker Containers.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "Deps/Useful/Docker Containers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "Deps/Useful/Docker Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md"
+                "file": "Deps/Useful/Docker Containers.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "a7c55603a793cda2",
   "lastOpenFiles": [
+    "Deps/Useful/Usuários Portal.md",
     "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Deps/Images/Conexao VPN.png",
     "Deps/Useful/Queries.md",
@@ -155,7 +156,6 @@
     "Deps/Useful/Notebook Deps.md",
     "Deps/Backups/AnaliseCredito-20240404",
     "Deps/Backups",
-    "Deps/Useful/Usuários Portal.md",
     "Deps/Deps.md",
     "Deps/Useful/Docker Containers.md",
     "Deps/Useful/DirectData/Produtos Consulta.md",
