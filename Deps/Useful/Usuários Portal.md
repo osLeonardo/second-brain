@@ -15,5 +15,9 @@
 - senha: 129@AAaa
 
 **Usuário Gestor ( Local ) - DB Tech**
-- login: leo@db.com
+- login: gestor@db.com
+- senha: 129@AAaa
+
+**Usuário ( Local ) - DB Tech**
+- login: usuario@db.com
 - senha: 129@AAaa
