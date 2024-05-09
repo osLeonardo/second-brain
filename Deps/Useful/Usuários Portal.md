@@ -8,11 +8,15 @@
 
 **Financeiro ( QA )** 
 - login: leo@financeiro.com
-- senha: 129@AAaa
+- senha: AAaa@129
 
 **Usuário Gestor ( QA ) - Almeria Teste**
 - login: leo@almeria.com
-- senha: 129@AAaa
+- senha: 8569@Aaa
+
+**Usuário Gestor ( QA ) - Aurora Teste**
+- login: leo@aurora.com
+- senha: 
 
 **Usuário Gestor ( Local ) - DB Tech**
 - login: gestor@db.com
