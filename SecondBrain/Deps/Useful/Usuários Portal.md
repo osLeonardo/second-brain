@@ -18,6 +18,10 @@
 - login: leo@aurora.com
 - senha: 
 
+**Usuário Comercial ( Local ) - DB Tech**
+- login: comercial@db.com
+- senha: 129@AAaa
+
 **Usuário Gestor ( Local ) - DB Tech**
 - login: gestor@db.com
 - senha: 129@AAaa

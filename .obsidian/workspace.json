@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deps/Useful/Usuários Portal.md"
+                "file": "SecondBrain/Deps/Useful/Usuários Portal.md"
               }
             }
           }
@@ -148,11 +148,17 @@
   },
   "active": "a7c55603a793cda2",
   "lastOpenFiles": [
+    "SecondBrain/Deps/Useful/Docker Containers.md",
+    "SecondBrain/Deps/Useful/Usuários Portal.md",
+    "SecondBrain/Deps/Useful/Queries.md",
+    "07.md",
+    "SecondBrain/Deps/Images/RedisCache.png",
+    "SecondBrain/Deps/Images/Novo IP.png",
+    "SecondBrain/Deps/Images/Conexao VPN.png",
+    "README.md",
     "Deps/Useful/Queries.md",
     "Deps/Useful/Docker Containers.md",
     "Deps/Useful/Usuários Portal.md",
-    "Untitled.md",
-    "README.md",
     "Personal/Projects/Projects.md",
     "Personal/Projects/Unity Chess Game/Unity Chess Game.md",
     "Deps/Images/Conexao VPN.png",
@@ -184,16 +190,9 @@
     "Mockaroon Template.md",
     "Deps/Images/Novo IP.png",
     "Personal/Personal.md",
-    "SEGURA AÍ.md",
     "PF 101.png",
     "PJ 308.png",
     "Pasted image 20231205160146.png",
-    "Pasted image 20231205160126.png",
-    "Deps/Useful/Documentos Para Consulta.md",
-    "Personal/Gaming/From Software/From Software.md",
-    "Personal/Gaming/From Software/Dark Souls/Dark Souls Remastered.md",
-    "Untitled.canvas",
-    "Redis Cache.png.png",
-    "Work/Images/DirectData CadastralPf - Aécio.png"
+    "Untitled.canvas"
   ]
 }
