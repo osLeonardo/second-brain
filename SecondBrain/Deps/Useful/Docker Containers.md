@@ -46,5 +46,3 @@
 > então:
 > 
 >	flushall
->
->![[RedisCache.png]]

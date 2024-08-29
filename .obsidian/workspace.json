@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
-                "mode": "preview",
+                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md"
+                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md"
               }
             }
           }
@@ -148,20 +148,27 @@
   },
   "active": "a7c55603a793cda2",
   "lastOpenFiles": [
-    "SecondBrain/Deps/Useful/Others.md",
+    "SecondBrain/Personal/Course Completion Thesis/Ha_gamificacao_na_Psicologia_brasileira.pdf",
+    "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
+    "SecondBrain/Personal/Course Completion Thesis/K-+Artigo+07_Santos+et+al.pdf",
     "SecondBrain/Deps/Useful/Docker Containers.md",
+    "SecondBrain/Personal/Course Completion Thesis/Untitled",
+    "SecondBrain/Personal/Course Completion Thesis",
+    "SecondBrain/Unesc",
+    "SecondBrain/Deps/Useful/Others.md",
+    "SecondBrain/Deps/Images/RedisCache.png",
+    "SecondBrain/Deps/Images/Novo IP.png",
+    "SecondBrain/Deps/Useful/Usuários Portal.md",
+    "SecondBrain/Deps/Images/Conexao VPN.png",
+    "SecondBrain/Deps/Useful/DirectData/Produtos Consulta.md",
     "SecondBrain/Personal/Personal.md",
     "SecondBrain/Starting Point.md",
     "SecondBrain/Deps/Deps.md",
-    "SecondBrain/Deps/Useful/Usuários Portal.md",
     "SecondBrain/Deps/Useful/Queries.md",
     "README.md",
     "SecondBrain/Courses Anotations/Anotations/Refactoring Code.md",
     "SecondBrain/Courses Anotations/Courses Anotations.md",
     "07.md",
-    "SecondBrain/Deps/Images/RedisCache.png",
-    "SecondBrain/Deps/Images/Novo IP.png",
-    "SecondBrain/Deps/Images/Conexao VPN.png",
     "Deps/Useful/Queries.md",
     "Deps/Useful/Docker Containers.md",
     "Deps/Useful/Usuários Portal.md",
@@ -181,14 +188,6 @@
     "Personal/Gaming/TUNIC/TUNIC Achievements.md",
     "Deps/DirectData/Exemplos Retorno/Mix PF 101.pdf",
     "Deps/Images/RedisCache.png",
-    "Deps/DirectData/Exemplos Retorno/Mix PJ 310.pdf",
-    "Deps/DirectData/Exemplos Retorno/Mix PJ 309.pdf",
-    "Deps/DirectData/Exemplos Retorno/Mix PJ 308.pdf",
-    "Deps/DirectData/Exemplos Retorno/Mix PF 100 (Lula).pdf",
-    "Personal/Gaming/Gran Turismo 4/GT4 To Do.md",
-    "Personal/Gaming/TUNIC",
-    "Courses Anotations/Anotations/SOLID Principles.md",
-    "Courses Anotations/Courses Anotations.md",
     "Pasted image 20231207101840.png",
     "Deps/Images/Novo IP.png",
     "PF 101.png",
