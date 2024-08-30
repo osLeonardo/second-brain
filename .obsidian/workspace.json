@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da0eaeaa6f9af004",
+        "id": "3e5a90967762c49f",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c55603a793cda2",
+            "id": "6f017a8a3042b002",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SecondBrain/Personal/Course Completion Thesis/Links to Research.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7c55603a793cda2",
+  "active": "6f017a8a3042b002",
   "lastOpenFiles": [
     "SecondBrain/Personal/Course Completion Thesis/Ha_gamificacao_na_Psicologia_brasileira.pdf",
-    "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
     "SecondBrain/Personal/Course Completion Thesis/K-+Artigo+07_Santos+et+al.pdf",
+    "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
+    "SecondBrain/Personal/Course Completion Thesis/Print Sribd.png",
     "SecondBrain/Deps/Useful/Docker Containers.md",
     "SecondBrain/Personal/Course Completion Thesis/Untitled",
     "SecondBrain/Personal/Course Completion Thesis",
@@ -192,7 +185,6 @@
     "Deps/Images/Novo IP.png",
     "PF 101.png",
     "PJ 308.png",
-    "Pasted image 20231205160146.png",
     "Untitled.canvas"
   ]
 }

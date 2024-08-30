@@ -1,7 +1,9 @@
 - [[K-+Artigo+07_Santos+et+al.pdf]]
 - [[Ha_gamificacao_na_Psicologia_brasileira.pdf]]
 - https://www.scribd.com/document/672299434/RPD-5-colunas-1
+	- ![[Print Sribd.png]]
 - https://orcestra.com.br/2020/04/09/a-psicologia-dos-desafios-cotidianos-teoria-do-flow-e-a-gamificacao/
 - https://orcestra.com.br/2020/04/02/o-que-e-gamificacao-e-como-ela-pode-mudar-a-sua-vida-assim-como-mudou-a-minha/
 - https://escoladainteligencia.com.br/blog/a-gamificacao-no-desenvolvimento-de-habilidades-socioemocionais/
 - https://www.ludospro.com.br/blog/gamificacao-na-psicologia
+- https://www.bemdoestar.org/artigos/registro-de-pensamentos-disfuncionais
