@@ -21,6 +21,10 @@
 >	senha: AAaa@129
 >Gestor: 
 >
+>	Parceiro Spilere:
+>	login: gestor@spilere.com
+>	senha: AAaa@129
+>
 >	Muriel 03:
 >	login: leo@almeria.com
 >	senha: AAaa@129

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SecondBrain/Deps/Deps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SecondBrain/Deps/Deps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SecondBrain/Deps/Deps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SecondBrain/Deps/Deps.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8b79cb172ab2b8",
+  "active": "22f74c696105c9f2",
   "lastOpenFiles": [
+    "README.md",
+    "SecondBrain/Deps/Useful/Usuários Portal.md",
     "SecondBrain/Deps/Deps.md",
     "SecondBrain/Deps/Useful/Queries.md",
     "SecondBrain/Deps/Useful/Docker Containers.md",
     "SecondBrain/Deps/Useful/Others.md",
-    "SecondBrain/Deps/Useful/Usuários Portal.md",
     "SecondBrain/Personal/Course Completion Thesis/Ha_gamificacao_na_Psicologia_brasileira.pdf",
     "SecondBrain/Personal/Course Completion Thesis/K-+Artigo+07_Santos+et+al.pdf",
     "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
@@ -166,7 +167,6 @@
     "SecondBrain/Deps/Useful/DirectData/Produtos Consulta.md",
     "SecondBrain/Personal/Personal.md",
     "SecondBrain/Starting Point.md",
-    "README.md",
     "SecondBrain/Courses Anotations/Anotations/Refactoring Code.md",
     "SecondBrain/Courses Anotations/Courses Anotations.md",
     "07.md",

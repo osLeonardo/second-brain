@@ -1,7 +1,7 @@
 # Hi there! 👋
 ### I'm Leonardo, a Fullstack Developer based in Brazil.
 
-I work with TypeScript, Angular, C# and .Net 6.
+I work with TypeScript, Angular Material, C# and .Net 6.
 
 My main interests are:
  - 🏎️ Automotive world;
