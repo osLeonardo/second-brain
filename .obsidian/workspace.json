@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5a90967762c49f",
+        "id": "70917143bfcd2a85",
         "type": "tabs",
         "children": [
           {
-            "id": "6f017a8a3042b002",
+            "id": "22f74c696105c9f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,26 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f017a8a3042b002",
+  "active": "6d8b79cb172ab2b8",
   "lastOpenFiles": [
+    "SecondBrain/Deps/Deps.md",
+    "SecondBrain/Deps/Useful/Queries.md",
+    "SecondBrain/Deps/Useful/Docker Containers.md",
+    "SecondBrain/Deps/Useful/Others.md",
+    "SecondBrain/Deps/Useful/Usuários Portal.md",
     "SecondBrain/Personal/Course Completion Thesis/Ha_gamificacao_na_Psicologia_brasileira.pdf",
     "SecondBrain/Personal/Course Completion Thesis/K-+Artigo+07_Santos+et+al.pdf",
     "SecondBrain/Personal/Course Completion Thesis/Links to Research.md",
     "SecondBrain/Personal/Course Completion Thesis/Print Sribd.png",
-    "SecondBrain/Deps/Useful/Docker Containers.md",
     "SecondBrain/Personal/Course Completion Thesis/Untitled",
     "SecondBrain/Personal/Course Completion Thesis",
     "SecondBrain/Unesc",
-    "SecondBrain/Deps/Useful/Others.md",
     "SecondBrain/Deps/Images/RedisCache.png",
     "SecondBrain/Deps/Images/Novo IP.png",
-    "SecondBrain/Deps/Useful/Usuários Portal.md",
     "SecondBrain/Deps/Images/Conexao VPN.png",
     "SecondBrain/Deps/Useful/DirectData/Produtos Consulta.md",
     "SecondBrain/Personal/Personal.md",
     "SecondBrain/Starting Point.md",
-    "SecondBrain/Deps/Deps.md",
-    "SecondBrain/Deps/Useful/Queries.md",
     "README.md",
     "SecondBrain/Courses Anotations/Anotations/Refactoring Code.md",
     "SecondBrain/Courses Anotations/Courses Anotations.md",
