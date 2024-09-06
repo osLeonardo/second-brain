@@ -14,11 +14,13 @@
 >	Parceiro Spilere:
 >	login: adm@spilere.com
 >	senha: AAaa@129
+>---
 >Financeiro: 
 >
 >	Witcred Consultoria EIRELI:
 >	login: leo@financeiro.com
 >	senha: AAaa@129
+>---
 >Gestor: 
 >
 >	Parceiro Spilere:
@@ -34,27 +36,3 @@
 >	Witcred Consultoria EIRELI:
 >	login: usuario.adm@me.com
 >	senha: Deps@123
->Financeiro: 
->
->	Witcred Consultoria EIRELI:
->	login: financeiro@me.com
->	senha: AAaa@129
->Gestor: 
->
->	DB Tech:
->	login: gestor@db.com
->	senha: 129@AAaa
->
->	LNR 01
->	login: gestor@lnr.com
->	senha: 129@AAaa
->Comercial:
->
->	DB Tech:
->	login: comercial@db.com
->	senha: 129@AAaa
->Usuário:
->
->	DB Tech:
->	login: usuario@db.com
->	senha: 129@AAaa

@@ -1,3 +1,4 @@
+#### Docker
 - **Docker Compose**
 >Atualizar: 
 >
@@ -11,6 +12,12 @@
 >Iniciar específico:
 >
 >	docker compose up -d [container-name] --force-recreate
+>Remove unused or dangling contaners, images and volumes:
+>
+>	docker system prune -a
+>Remove dangling Images:
+>
+>	docker image prune
 
 
 - **Erros do Docker**
@@ -21,9 +28,8 @@
 >
 >	Optimize-VHD -Path .\ext4.vhdx -Mode full
 
-- **RabbitMq**
->	docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 --hostname rabbitmq-master rabbitmq:3-management
-
+---
+#### Redis
 - **Redis**
 >	docker run --name redis -p 6379:6379 -d redis:7-alpine
 
@@ -38,7 +44,7 @@
 >então:
 > 
 >	flushall
->====================================
+>---
 >***Banco QA***
 >qualquer terminal:
 >
@@ -46,3 +52,23 @@
 > então:
 > 
 >	flushall
+
+---
+#### Others
+- **Rider**
+>	`Build` -> `Clean`
+>	`Build` -> `Rebuild Solution`
+>	`File` -> `Invalidate Caches / Restart`
+
+- **RabbitMq**
+>	docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 --hostname rabbitmq-master rabbitmq:3-management
+
+- **Bluetooth**
+>Reiniciar: 
+>
+>	sudo /etc/init.d/bluetooth restart
+
+- **Git**
+>Rebase: 
+>
+>	git pull origin master --rebase
