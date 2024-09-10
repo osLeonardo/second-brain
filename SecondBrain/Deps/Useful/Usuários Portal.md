@@ -4,6 +4,7 @@
 >	Witcred Consultoria EIRELI:
 >	login: usuario.adm@me.com
 >	senha: Deps@123
+---
 ### Atual
 >Administrador: 
 >
@@ -30,9 +31,16 @@
 >	Muriel 03:
 >	login: leo@almeria.com
 >	senha: AAaa@129
+---
 ### Local
 >Administrador: 
 >
 >	Witcred Consultoria EIRELI:
 >	login: usuario.adm@me.com
 >	senha: Deps@123
+>---
+>Suporte / Implantação: 
+>
+>	Witcred Consultoria EIRELI:
+>	login: usuario.sup@me.com
+>	senha: AAaa@129
