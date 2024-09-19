@@ -1,7 +1,7 @@
 # Hi there! 👋
-### I'm Leonardo, a Fullstack Developer based in Brazil.
+### I'm Leonardo, a 22 years old Fullstack Developer based in Brazil.
 
-I work with TypeScript, Angular Material, C# and .Net 6.
+I work with TypeScript, Angular Material, C# and .Net 6 and 8, but also have some experience with Java, Python, React and Next.
 
 My main interests are:
  - 🏎️ Automotive world;

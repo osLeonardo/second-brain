@@ -18,7 +18,10 @@
 >Remove dangling Images:
 >
 >	docker image prune
-
+>Rodar nodes projeto DepsIA:
+>
+>	sudo sysctl -w vm.max_map_count=512000
+>	docker compose up -d  --force-recreate 
 
 - **Erros do Docker**
 >Erro 125 - No powershell do Visual Studio:
