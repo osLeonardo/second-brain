@@ -44,3 +44,9 @@
 >	Witcred Consultoria EIRELI:
 >	login: usuario.sup@me.com
 >	senha: AAaa@129
+---
+>Gestor:
+>
+>	Cliente Spilere:
+>	login: gestor@spilere.com
+>	senha: AAaa@129
