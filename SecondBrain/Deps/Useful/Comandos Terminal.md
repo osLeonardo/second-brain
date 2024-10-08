@@ -39,22 +39,8 @@
 - **Redis CLI (rdcli)**
 >	npm install redis-cli -g
 
-- **Limpar Cache do Banco do Redis**>
->***Banco Local***
->qualquer terminal:
->
->	rdcli
->então:
-> 
->	flushall
->---
->***Banco QA***
->qualquer terminal:
->
->	rdcli -h 64.227.104.246
-> então:
-> 
->	flushall
+- **Limpar Cache do Banco do Redis**
+>	redis-cli flushall
 
 ---
 #### Others

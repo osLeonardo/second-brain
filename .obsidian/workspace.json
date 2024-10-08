@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Deps/Useful/Comandos Terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Deps/Useful/Comandos Terminal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md",
+                "file": "SecondBrain/Deps/Useful/Comandos Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Deps/Useful/Usuários Portal.md"
+                "file": "SecondBrain/Deps/Useful/Comandos Terminal.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "22f74c696105c9f2",
   "lastOpenFiles": [
+    "SecondBrain/Deps/Useful/Usuários Portal.md",
     "SecondBrain/Deps/Useful/Queries.md",
     "README.md",
-    "SecondBrain/Deps/Useful/Usuários Portal.md",
     "SecondBrain/Personal/Personal.md",
     "SecondBrain/Deps/Useful/Comandos Terminal.md",
     "SecondBrain/Deps/Deps.md",
