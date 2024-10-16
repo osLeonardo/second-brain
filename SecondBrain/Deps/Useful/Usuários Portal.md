@@ -39,6 +39,12 @@
 >	login: usuario.adm@me.com
 >	senha: Deps@123
 >---
+>Financeiro: 
+>
+>	Witcred Consultoria EIRELI:
+>	login: financeiro@me.com
+>	senha: Deps@123
+---
 >Suporte / Implantação: 
 >
 >	Witcred Consultoria EIRELI:
