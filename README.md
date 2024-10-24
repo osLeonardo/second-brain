@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Leonardo,
-##### a 22 years old Fullstack Developer and Computer Science student based in Brazil.
+#### a 22 years old Fullstack Developer and Computer Science student based in Brazil.
 
 ### 🛠 Skills
 - **Languages:** C#, TypeScript, JavaScript, Java, Python
