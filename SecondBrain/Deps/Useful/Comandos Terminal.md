@@ -1,5 +1,9 @@
-	me.com#### Docker
+#### Docker
 - **Docker Compose**
+>Deps: 
+>
+>	Login: depstec
+>	Senha: .dVsGUuw3_CgqSE
 >Atualizar: 
 >
 >	docker compose pull
